@@ -1,0 +1,1339 @@
+[
+    {
+        "id": 0,
+        "title": "02.mp4.mp3",
+        "text": " Welcome back to 100 days of code",
+        "start": 0.0,
+        "end": 3.0
+    },
+    {
+        "id": 1,
+        "title": "02.mp4.mp3",
+        "text": " Today I want to tell you a story of my personal life",
+        "start": 3.0,
+        "end": 6.0
+    },
+    {
+        "id": 2,
+        "title": "02.mp4.mp3",
+        "text": " When I was in 2nd year of college, I knew C++ very well",
+        "start": 6.0,
+        "end": 10.0
+    },
+    {
+        "id": 3,
+        "title": "02.mp4.mp3",
+        "text": " I was doing coding, I knew coding, I knew HTML",
+        "start": 10.0,
+        "end": 14.0
+    },
+    {
+        "id": 4,
+        "title": "02.mp4.mp3",
+        "text": " But I was not able to work in any industry",
+        "start": 14.0,
+        "end": 18.0
+    },
+    {
+        "id": 5,
+        "title": "02.mp4.mp3",
+        "text": " May be I was not getting any C++ project",
+        "start": 18.0,
+        "end": 21.0
+    },
+    {
+        "id": 6,
+        "title": "02.mp4.mp3",
+        "text": " Now I am not saying that C++ is a bad programming language",
+        "start": 21.0,
+        "end": 24.0
+    },
+    {
+        "id": 7,
+        "title": "02.mp4.mp3",
+        "text": " I have made many conditional related programs with the help of C++",
+        "start": 24.0,
+        "end": 28.0
+    },
+    {
+        "id": 8,
+        "title": "02.mp4.mp3",
+        "text": " I have done many other things like making a calculator",
+        "start": 28.0,
+        "end": 31.0
+    },
+    {
+        "id": 9,
+        "title": "02.mp4.mp3",
+        "text": " But I was not able to work in any industry",
+        "start": 31.0,
+        "end": 34.0
+    },
+    {
+        "id": 10,
+        "title": "02.mp4.mp3",
+        "text": " When I was introduced to Python, I did web scrapping, made GUIs, made PLAS applications and did a lot of freelancing",
+        "start": 34.0,
+        "end": 42.0
+    },
+    {
+        "id": 11,
+        "title": "02.mp4.mp3",
+        "text": " I consider Python as a language which taught me the use of programming",
+        "start": 42.0,
+        "end": 48.0
+    },
+    {
+        "id": 12,
+        "title": "02.mp4.mp3",
+        "text": " Why we give so much value to programming in industry and why programming is used so much in industry",
+        "start": 48.0,
+        "end": 55.0
+    },
+    {
+        "id": 13,
+        "title": "02.mp4.mp3",
+        "text": " In today's video, I am going to show you some programs which you will enjoy watching",
+        "start": 55.0,
+        "end": 61.0
+    },
+    {
+        "id": 14,
+        "title": "02.mp4.mp3",
+        "text": " You will also say that it is fun to watch these programs",
+        "start": 61.0,
+        "end": 64.0
+    },
+    {
+        "id": 15,
+        "title": "02.mp4.mp3",
+        "text": " Because after watching these programs, you will understand the actual use of programming",
+        "start": 64.0,
+        "end": 68.0
+    },
+    {
+        "id": 16,
+        "title": "02.mp4.mp3",
+        "text": " Why programming is used",
+        "start": 68.0,
+        "end": 70.0
+    },
+    {
+        "id": 17,
+        "title": "02.mp4.mp3",
+        "text": " I will tell you 5 programs today and you will also enjoy watching these programs",
+        "start": 70.0,
+        "end": 75.0
+    },
+    {
+        "id": 18,
+        "title": "02.mp4.mp3",
+        "text": " Some of them are very amazing games",
+        "start": 75.0,
+        "end": 77.0
+    },
+    {
+        "id": 19,
+        "title": "02.mp4.mp3",
+        "text": " There is a Jarvis virtual assistant which works on your map",
+        "start": 77.0,
+        "end": 81.0
+    },
+    {
+        "id": 20,
+        "title": "02.mp4.mp3",
+        "text": " It shows you what you say and what commands you give",
+        "start": 81.0,
+        "end": 84.0
+    },
+    {
+        "id": 21,
+        "title": "02.mp4.mp3",
+        "text": " The biggest reason to make this course is that there are many new things in Python",
+        "start": 84.0,
+        "end": 89.0
+    },
+    {
+        "id": 22,
+        "title": "02.mp4.mp3",
+        "text": " There are many new approaches which I want to tell you",
+        "start": 89.0,
+        "end": 93.0
+    },
+    {
+        "id": 23,
+        "title": "02.mp4.mp3",
+        "text": " This brand new course will touch all those things",
+        "start": 93.0,
+        "end": 96.0
+    },
+    {
+        "id": 24,
+        "title": "02.mp4.mp3",
+        "text": " For example, Valorous operator has come in Python",
+        "start": 96.0,
+        "end": 98.0
+    },
+    {
+        "id": 25,
+        "title": "02.mp4.mp3",
+        "text": " There are many other additions",
+        "start": 98.0,
+        "end": 100.0
+    },
+    {
+        "id": 26,
+        "title": "02.mp4.mp3",
+        "text": " There are many easy ways to do things",
+        "start": 100.0,
+        "end": 102.0
+    },
+    {
+        "id": 27,
+        "title": "02.mp4.mp3",
+        "text": " We will cover all these things in this course",
+        "start": 102.0,
+        "end": 105.0
+    },
+    {
+        "id": 28,
+        "title": "02.mp4.mp3",
+        "text": " I will teach you Python so well that a snake can walk on its map",
+        "start": 105.0,
+        "end": 110.0
+    },
+    {
+        "id": 29,
+        "title": "02.mp4.mp3",
+        "text": " You will be able to run Python on your map by programming",
+        "start": 110.0,
+        "end": 114.0
+    },
+    {
+        "id": 30,
+        "title": "02.mp4.mp3",
+        "text": " You will be able to do whatever you want",
+        "start": 114.0,
+        "end": 116.0
+    },
+    {
+        "id": 31,
+        "title": "02.mp4.mp3",
+        "text": " Let's go to the showcase and I will show you my programs",
+        "start": 116.0,
+        "end": 119.0
+    },
+    {
+        "id": 32,
+        "title": "02.mp4.mp3",
+        "text": " Which I made with the help of Python",
+        "start": 119.0,
+        "end": 121.0
+    },
+    {
+        "id": 33,
+        "title": "02.mp4.mp3",
+        "text": " The first program I want to show you is Jarvis virtual assistant",
+        "start": 131.0,
+        "end": 136.0
+    },
+    {
+        "id": 34,
+        "title": "02.mp4.mp3",
+        "text": " This program takes your commands and after taking your commands",
+        "start": 136.0,
+        "end": 141.0
+    },
+    {
+        "id": 35,
+        "title": "02.mp4.mp3",
+        "text": " It does some work",
+        "start": 141.0,
+        "end": 143.0
+    },
+    {
+        "id": 36,
+        "title": "02.mp4.mp3",
+        "text": " As you can see, it has opened YouTube",
+        "start": 156.0,
+        "end": 159.0
+    },
+    {
+        "id": 37,
+        "title": "02.mp4.mp3",
+        "text": " It is a very cool program",
+        "start": 159.0,
+        "end": 161.0
+    },
+    {
+        "id": 38,
+        "title": "02.mp4.mp3",
+        "text": " You give it a command and it finishes the task",
+        "start": 161.0,
+        "end": 164.0
+    },
+    {
+        "id": 39,
+        "title": "02.mp4.mp3",
+        "text": " The next program I want to show you is our love calculator",
+        "start": 165.0,
+        "end": 171.0
+    },
+    {
+        "id": 40,
+        "title": "02.mp4.mp3",
+        "text": " It is a very amazing calculator",
+        "start": 171.0,
+        "end": 173.0
+    },
+    {
+        "id": 41,
+        "title": "02.mp4.mp3",
+        "text": " It tells how much love there is between two people",
+        "start": 173.0,
+        "end": 176.0
+    },
+    {
+        "id": 42,
+        "title": "02.mp4.mp3",
+        "text": " Obviously, it will not tell you accurately how much love there is between you and your partner",
+        "start": 176.0,
+        "end": 182.0
+    },
+    {
+        "id": 43,
+        "title": "02.mp4.mp3",
+        "text": " You all know it",
+        "start": 182.0,
+        "end": 184.0
+    },
+    {
+        "id": 44,
+        "title": "02.mp4.mp3",
+        "text": " But in a fun way, we made this program using a random module",
+        "start": 184.0,
+        "end": 188.0
+    },
+    {
+        "id": 45,
+        "title": "02.mp4.mp3",
+        "text": " If we put two names, it will tell the love percentage",
+        "start": 188.0,
+        "end": 192.0
+    },
+    {
+        "id": 46,
+        "title": "02.mp4.mp3",
+        "text": " How much love there is between two people",
+        "start": 192.0,
+        "end": 194.0
+    },
+    {
+        "id": 47,
+        "title": "02.mp4.mp3",
+        "text": " Let's try it out",
+        "start": 194.0,
+        "end": 196.0
+    },
+    {
+        "id": 48,
+        "title": "02.mp4.mp3",
+        "text": " I will put Harry in the name and I will put Payal in the name of the partner",
+        "start": 196.0,
+        "end": 200.0
+    },
+    {
+        "id": 49,
+        "title": "02.mp4.mp3",
+        "text": " I calculate 97%",
+        "start": 200.0,
+        "end": 202.0
+    },
+    {
+        "id": 50,
+        "title": "02.mp4.mp3",
+        "text": " Okay, great",
+        "start": 202.0,
+        "end": 204.0
+    },
+    {
+        "id": 51,
+        "title": "02.mp4.mp3",
+        "text": " Now, if I write here",
+        "start": 204.0,
+        "end": 206.0
+    },
+    {
+        "id": 52,
+        "title": "02.mp4.mp3",
+        "text": " Let's say I write Sanskriti here",
+        "start": 206.0,
+        "end": 209.0
+    },
+    {
+        "id": 53,
+        "title": "02.mp4.mp3",
+        "text": " So 0, 3, 3%",
+        "start": 209.0,
+        "end": 212.0
+    },
+    {
+        "id": 54,
+        "title": "02.mp4.mp3",
+        "text": " It means that I should stay away from girls named Sanskriti",
+        "start": 212.0,
+        "end": 215.0
+    },
+    {
+        "id": 55,
+        "title": "02.mp4.mp3",
+        "text": " Boys named Harry",
+        "start": 215.0,
+        "end": 217.0
+    },
+    {
+        "id": 56,
+        "title": "02.mp4.mp3",
+        "text": " So this is a very fun calculator",
+        "start": 217.0,
+        "end": 220.0
+    },
+    {
+        "id": 57,
+        "title": "02.mp4.mp3",
+        "text": " I hope you will enjoy running it",
+        "start": 220.0,
+        "end": 222.0
+    },
+    {
+        "id": 58,
+        "title": "02.mp4.mp3",
+        "text": " The next program I want to show you is the face recognition program",
+        "start": 222.0,
+        "end": 226.0
+    },
+    {
+        "id": 59,
+        "title": "02.mp4.mp3",
+        "text": " Which uses the Harkascade algorithm",
+        "start": 226.0,
+        "end": 229.0
+    },
+    {
+        "id": 60,
+        "title": "02.mp4.mp3",
+        "text": " Basically, it tells in an image where the face is",
+        "start": 229.0,
+        "end": 232.0
+    },
+    {
+        "id": 61,
+        "title": "02.mp4.mp3",
+        "text": " Where is the face",
+        "start": 232.0,
+        "end": 233.0
+    },
+    {
+        "id": 62,
+        "title": "02.mp4.mp3",
+        "text": " This is a face detection algorithm",
+        "start": 233.0,
+        "end": 235.0
+    },
+    {
+        "id": 63,
+        "title": "02.mp4.mp3",
+        "text": " So here you see in the face of Robert Downey Jr.",
+        "start": 235.0,
+        "end": 238.0
+    },
+    {
+        "id": 64,
+        "title": "02.mp4.mp3",
+        "text": " It will tell where the actual face is hidden",
+        "start": 238.0,
+        "end": 241.0
+    },
+    {
+        "id": 65,
+        "title": "02.mp4.mp3",
+        "text": " The picture will tell where the face is hidden",
+        "start": 241.0,
+        "end": 243.0
+    },
+    {
+        "id": 66,
+        "title": "02.mp4.mp3",
+        "text": " So I run it for 1.jpg file",
+        "start": 243.0,
+        "end": 245.0
+    },
+    {
+        "id": 67,
+        "title": "02.mp4.mp3",
+        "text": " You can run it on your favorite file",
+        "start": 245.0,
+        "end": 249.0
+    },
+    {
+        "id": 68,
+        "title": "02.mp4.mp3",
+        "text": " So see I run it here",
+        "start": 249.0,
+        "end": 251.0
+    },
+    {
+        "id": 69,
+        "title": "02.mp4.mp3",
+        "text": " And after running, you see it has detected all the faces from this image",
+        "start": 251.0,
+        "end": 256.0
+    },
+    {
+        "id": 70,
+        "title": "02.mp4.mp3",
+        "text": " So I can run it for different images",
+        "start": 256.0,
+        "end": 259.0
+    },
+    {
+        "id": 71,
+        "title": "02.mp4.mp3",
+        "text": " It is not necessary that it will work for one image",
+        "start": 259.0,
+        "end": 261.0
+    },
+    {
+        "id": 72,
+        "title": "02.mp4.mp3",
+        "text": " It is working for different images",
+        "start": 261.0,
+        "end": 263.0
+    },
+    {
+        "id": 73,
+        "title": "02.mp4.mp3",
+        "text": " It was a very fun program",
+        "start": 263.0,
+        "end": 265.0
+    },
+    {
+        "id": 74,
+        "title": "02.mp4.mp3",
+        "text": " It was fun to make it",
+        "start": 265.0,
+        "end": 267.0
+    },
+    {
+        "id": 75,
+        "title": "02.mp4.mp3",
+        "text": " Our next project is the Flappy Bird game",
+        "start": 267.0,
+        "end": 269.0
+    },
+    {
+        "id": 76,
+        "title": "02.mp4.mp3",
+        "text": " Which may be someone",
+        "start": 269.0,
+        "end": 271.0
+    },
+    {
+        "id": 77,
+        "title": "02.mp4.mp3",
+        "text": " There may be someone who has not played this game",
+        "start": 271.0,
+        "end": 274.0
+    },
+    {
+        "id": 78,
+        "title": "02.mp4.mp3",
+        "text": " Basically, it is a very good game",
+        "start": 274.0,
+        "end": 276.0
+    },
+    {
+        "id": 79,
+        "title": "02.mp4.mp3",
+        "text": " We play a lot on our phones",
+        "start": 276.0,
+        "end": 278.0
+    },
+    {
+        "id": 80,
+        "title": "02.mp4.mp3",
+        "text": " But here you can play a game made by your hand on your computer",
+        "start": 278.0,
+        "end": 283.0
+    },
+    {
+        "id": 81,
+        "title": "02.mp4.mp3",
+        "text": " Flappy Bird",
+        "start": 283.0,
+        "end": 285.0
+    },
+    {
+        "id": 82,
+        "title": "02.mp4.mp3",
+        "text": " I can play it now",
+        "start": 285.0,
+        "end": 287.0
+    },
+    {
+        "id": 83,
+        "title": "02.mp4.mp3",
+        "text": " See I am playing it here",
+        "start": 287.0,
+        "end": 289.0
+    },
+    {
+        "id": 84,
+        "title": "02.mp4.mp3",
+        "text": " And it will be fun to play it",
+        "start": 289.0,
+        "end": 291.0
+    },
+    {
+        "id": 85,
+        "title": "02.mp4.mp3",
+        "text": " So the fifth",
+        "start": 291.0,
+        "end": 293.0
+    },
+    {
+        "id": 86,
+        "title": "02.mp4.mp3",
+        "text": " Last but not the least",
+        "start": 293.0,
+        "end": 295.0
+    },
+    {
+        "id": 87,
+        "title": "02.mp4.mp3",
+        "text": " I have made many other projects",
+        "start": 295.0,
+        "end": 297.0
+    },
+    {
+        "id": 88,
+        "title": "02.mp4.mp3",
+        "text": " But this is something I want to showcase",
+        "start": 297.0,
+        "end": 299.0
+    },
+    {
+        "id": 89,
+        "title": "02.mp4.mp3",
+        "text": " How to make a snake game in Python",
+        "start": 299.0,
+        "end": 301.0
+    },
+    {
+        "id": 90,
+        "title": "02.mp4.mp3",
+        "text": " I will play this game and show you",
+        "start": 301.0,
+        "end": 303.0
+    },
+    {
+        "id": 91,
+        "title": "02.mp4.mp3",
+        "text": " As you can see",
+        "start": 303.0,
+        "end": 305.0
+    },
+    {
+        "id": 92,
+        "title": "02.mp4.mp3",
+        "text": " This is our black snake",
+        "start": 305.0,
+        "end": 307.0
+    },
+    {
+        "id": 93,
+        "title": "02.mp4.mp3",
+        "text": " This is our red snake",
+        "start": 307.0,
+        "end": 309.0
+    },
+    {
+        "id": 94,
+        "title": "02.mp4.mp3",
+        "text": " I know it can be done better",
+        "start": 309.0,
+        "end": 311.0
+    },
+    {
+        "id": 95,
+        "title": "02.mp4.mp3",
+        "text": " By changing the image",
+        "start": 311.0,
+        "end": 313.0
+    },
+    {
+        "id": 96,
+        "title": "02.mp4.mp3",
+        "text": " But here I made logic",
+        "start": 313.0,
+        "end": 315.0
+    },
+    {
+        "id": 97,
+        "title": "02.mp4.mp3",
+        "text": " And see I am playing it",
+        "start": 315.0,
+        "end": 317.0
+    },
+    {
+        "id": 98,
+        "title": "02.mp4.mp3",
+        "text": " I will break the high score of 90",
+        "start": 317.0,
+        "end": 319.0
+    },
+    {
+        "id": 99,
+        "title": "02.mp4.mp3",
+        "text": " I can make a lot of scores",
+        "start": 319.0,
+        "end": 321.0
+    },
+    {
+        "id": 100,
+        "title": "02.mp4.mp3",
+        "text": " I will tell you",
+        "start": 321.0,
+        "end": 323.0
+    },
+    {
+        "id": 101,
+        "title": "02.mp4.mp3",
+        "text": " I am a very dangerous hardcore gamer",
+        "start": 323.0,
+        "end": 325.0
+    },
+    {
+        "id": 102,
+        "title": "02.mp4.mp3",
+        "text": " You can see here",
+        "start": 325.0,
+        "end": 327.0
+    },
+    {
+        "id": 103,
+        "title": "02.mp4.mp3",
+        "text": " The score is 90",
+        "start": 327.0,
+        "end": 329.0
+    },
+    {
+        "id": 104,
+        "title": "02.mp4.mp3",
+        "text": " I don't want to get out",
+        "start": 329.0,
+        "end": 331.0
+    },
+    {
+        "id": 105,
+        "title": "02.mp4.mp3",
+        "text": " I want to get out",
+        "start": 331.0,
+        "end": 333.0
+    },
+    {
+        "id": 106,
+        "title": "02.mp4.mp3",
+        "text": " I made a score of 100",
+        "start": 333.0,
+        "end": 335.0
+    },
+    {
+        "id": 107,
+        "title": "02.mp4.mp3",
+        "text": " It's fun to play a game made by your hands",
+        "start": 335.0,
+        "end": 337.0
+    },
+    {
+        "id": 108,
+        "title": "02.mp4.mp3",
+        "text": " It's fun to play a game made by your hands",
+        "start": 337.0,
+        "end": 339.0
+    },
+    {
+        "id": 109,
+        "title": "02.mp4.mp3",
+        "text": " I just want to tell you",
+        "start": 339.0,
+        "end": 341.0
+    },
+    {
+        "id": 110,
+        "title": "02.mp4.mp3",
+        "text": " In the coming videos",
+        "start": 341.0,
+        "end": 343.0
+    },
+    {
+        "id": 111,
+        "title": "02.mp4.mp3",
+        "text": " We are going to do something like this",
+        "start": 343.0,
+        "end": 345.0
+    },
+    {
+        "id": 112,
+        "title": "02.mp4.mp3",
+        "text": " I will tell you",
+        "start": 345.0,
+        "end": 347.0
+    },
+    {
+        "id": 113,
+        "title": "02.mp4.mp3",
+        "text": " And it will be fun",
+        "start": 347.0,
+        "end": 349.0
+    },
+    {
+        "id": 114,
+        "title": "02.mp4.mp3",
+        "text": " Because we will not make only these projects",
+        "start": 349.0,
+        "end": 351.0
+    },
+    {
+        "id": 115,
+        "title": "02.mp4.mp3",
+        "text": " We will make many such projects",
+        "start": 351.0,
+        "end": 353.0
+    },
+    {
+        "id": 116,
+        "title": "02.mp4.mp3",
+        "text": " In which we will be converting our ideas into reality",
+        "start": 353.0,
+        "end": 355.0
+    },
+    {
+        "id": 117,
+        "title": "02.mp4.mp3",
+        "text": " Now all this",
+        "start": 355.0,
+        "end": 357.0
+    },
+    {
+        "id": 118,
+        "title": "02.mp4.mp3",
+        "text": " I am going to give you",
+        "start": 357.0,
+        "end": 359.0
+    },
+    {
+        "id": 119,
+        "title": "02.mp4.mp3",
+        "text": " I want you to",
+        "start": 359.0,
+        "end": 361.0
+    },
+    {
+        "id": 120,
+        "title": "02.mp4.mp3",
+        "text": " Run all these codes",
+        "start": 361.0,
+        "end": 363.0
+    },
+    {
+        "id": 121,
+        "title": "02.mp4.mp3",
+        "text": " In your system",
+        "start": 363.0,
+        "end": 365.0
+    },
+    {
+        "id": 122,
+        "title": "02.mp4.mp3",
+        "text": " Whether you are able to run it or not",
+        "start": 365.0,
+        "end": 367.0
+    },
+    {
+        "id": 123,
+        "title": "02.mp4.mp3",
+        "text": " But run them",
+        "start": 367.0,
+        "end": 369.0
+    },
+    {
+        "id": 124,
+        "title": "02.mp4.mp3",
+        "text": " All the modules I have imported",
+        "start": 369.0,
+        "end": 371.0
+    },
+    {
+        "id": 125,
+        "title": "02.mp4.mp3",
+        "text": " You install them",
+        "start": 371.0,
+        "end": 373.0
+    },
+    {
+        "id": 126,
+        "title": "02.mp4.mp3",
+        "text": " By installing pip",
+        "start": 373.0,
+        "end": 375.0
+    },
+    {
+        "id": 127,
+        "title": "02.mp4.mp3",
+        "text": " If not now then when we go to the module chapter",
+        "start": 375.0,
+        "end": 377.0
+    },
+    {
+        "id": 128,
+        "title": "02.mp4.mp3",
+        "text": " Install pip and run them again",
+        "start": 377.0,
+        "end": 379.0
+    },
+    {
+        "id": 129,
+        "title": "02.mp4.mp3",
+        "text": " If you are not able to run them",
+        "start": 379.0,
+        "end": 381.0
+    },
+    {
+        "id": 130,
+        "title": "02.mp4.mp3",
+        "text": " I hope you will not have any problem",
+        "start": 381.0,
+        "end": 383.0
+    },
+    {
+        "id": 131,
+        "title": "02.mp4.mp3",
+        "text": " And if not",
+        "start": 383.0,
+        "end": 385.0
+    },
+    {
+        "id": 132,
+        "title": "02.mp4.mp3",
+        "text": " We will progress gradually in this course",
+        "start": 385.0,
+        "end": 387.0
+    },
+    {
+        "id": 133,
+        "title": "02.mp4.mp3",
+        "text": " And come back to this program",
+        "start": 387.0,
+        "end": 389.0
+    },
+    {
+        "id": 134,
+        "title": "02.mp4.mp3",
+        "text": " And see what was the mistake",
+        "start": 389.0,
+        "end": 391.0
+    },
+    {
+        "id": 135,
+        "title": "02.mp4.mp3",
+        "text": " I got no module error",
+        "start": 391.0,
+        "end": 393.0
+    },
+    {
+        "id": 136,
+        "title": "02.mp4.mp3",
+        "text": " Can I fix it or run it again",
+        "start": 393.0,
+        "end": 395.0
+    },
+    {
+        "id": 137,
+        "title": "02.mp4.mp3",
+        "text": " It's not like you have to do everything in this video",
+        "start": 395.0,
+        "end": 397.0
+    },
+    {
+        "id": 138,
+        "title": "02.mp4.mp3",
+        "text": " I hope you will enjoy",
+        "start": 397.0,
+        "end": 399.0
+    },
+    {
+        "id": 139,
+        "title": "02.mp4.mp3",
+        "text": " In taking these five programs",
+        "start": 399.0,
+        "end": 401.0
+    },
+    {
+        "id": 140,
+        "title": "02.mp4.mp3",
+        "text": " Keep them with you",
+        "start": 401.0,
+        "end": 403.0
+    },
+    {
+        "id": 141,
+        "title": "02.mp4.mp3",
+        "text": " And as we learn",
+        "start": 403.0,
+        "end": 405.0
+    },
+    {
+        "id": 142,
+        "title": "02.mp4.mp3",
+        "text": " We will learn further",
+        "start": 405.0,
+        "end": 407.0
+    },
+    {
+        "id": 143,
+        "title": "02.mp4.mp3",
+        "text": " You will do it more easily and well",
+        "start": 407.0,
+        "end": 409.0
+    },
+    {
+        "id": 144,
+        "title": "02.mp4.mp3",
+        "text": " All these programs",
+        "start": 409.0,
+        "end": 411.0
+    },
+    {
+        "id": 145,
+        "title": "02.mp4.mp3",
+        "text": " I am giving you here",
+        "start": 411.0,
+        "end": 413.0
+    },
+    {
+        "id": 146,
+        "title": "02.mp4.mp3",
+        "text": " All the five programs",
+        "start": 413.0,
+        "end": 415.0
+    },
+    {
+        "id": 147,
+        "title": "02.mp4.mp3",
+        "text": " Which I have shown you",
+        "start": 415.0,
+        "end": 417.0
+    },
+    {
+        "id": 148,
+        "title": "02.mp4.mp3",
+        "text": " They are present here",
+        "start": 417.0,
+        "end": 419.0
+    },
+    {
+        "id": 149,
+        "title": "02.mp4.mp3",
+        "text": " You can run them on your machine",
+        "start": 419.0,
+        "end": 421.0
+    },
+    {
+        "id": 150,
+        "title": "02.mp4.mp3",
+        "text": " And you will enjoy a lot",
+        "start": 421.0,
+        "end": 423.0
+    },
+    {
+        "id": 151,
+        "title": "02.mp4.mp3",
+        "text": " Some of them are using windows api",
+        "start": 423.0,
+        "end": 425.0
+    },
+    {
+        "id": 152,
+        "title": "02.mp4.mp3",
+        "text": " So it will run in windows",
+        "start": 425.0,
+        "end": 427.0
+    },
+    {
+        "id": 153,
+        "title": "02.mp4.mp3",
+        "text": " Like javis virtual assistant",
+        "start": 427.0,
+        "end": 429.0
+    },
+    {
+        "id": 154,
+        "title": "02.mp4.mp3",
+        "text": " You can do it in mac or linux",
+        "start": 429.0,
+        "end": 431.0
+    },
+    {
+        "id": 155,
+        "title": "02.mp4.mp3",
+        "text": " But we will do this thing",
+        "start": 431.0,
+        "end": 433.0
+    },
+    {
+        "id": 156,
+        "title": "02.mp4.mp3",
+        "text": " When we will go a little further in the course",
+        "start": 433.0,
+        "end": 435.0
+    },
+    {
+        "id": 157,
+        "title": "02.mp4.mp3",
+        "text": " You run all these programs",
+        "start": 435.0,
+        "end": 437.0
+    },
+    {
+        "id": 158,
+        "title": "02.mp4.mp3",
+        "text": " And you will enjoy",
+        "start": 437.0,
+        "end": 439.0
+    },
+    {
+        "id": 159,
+        "title": "02.mp4.mp3",
+        "text": " But don't try to recreate them now",
+        "start": 439.0,
+        "end": 441.0
+    },
+    {
+        "id": 160,
+        "title": "02.mp4.mp3",
+        "text": " Don't think that I have learned so much",
+        "start": 441.0,
+        "end": 443.0
+    },
+    {
+        "id": 161,
+        "title": "02.mp4.mp3",
+        "text": " Now I will make them from scratch",
+        "start": 443.0,
+        "end": 445.0
+    },
+    {
+        "id": 162,
+        "title": "02.mp4.mp3",
+        "text": " Change things",
+        "start": 445.0,
+        "end": 447.0
+    },
+    {
+        "id": 163,
+        "title": "02.mp4.mp3",
+        "text": " If you do this, then you will get a little frustration",
+        "start": 447.0,
+        "end": 449.0
+    },
+    {
+        "id": 164,
+        "title": "02.mp4.mp3",
+        "text": " Because what you don't know",
+        "start": 449.0,
+        "end": 451.0
+    },
+    {
+        "id": 165,
+        "title": "02.mp4.mp3",
+        "text": " You will try to do it",
+        "start": 451.0,
+        "end": 453.0
+    },
+    {
+        "id": 166,
+        "title": "02.mp4.mp3",
+        "text": " So we will make all these things",
+        "start": 453.0,
+        "end": 455.0
+    },
+    {
+        "id": 167,
+        "title": "02.mp4.mp3",
+        "text": " I will make more dangerous programs",
+        "start": 455.0,
+        "end": 457.0
+    },
+    {
+        "id": 168,
+        "title": "02.mp4.mp3",
+        "text": " I will show you",
+        "start": 457.0,
+        "end": 459.0
+    },
+    {
+        "id": 169,
+        "title": "02.mp4.mp3",
+        "text": " So you just give me a little time",
+        "start": 459.0,
+        "end": 461.0
+    },
+    {
+        "id": 170,
+        "title": "02.mp4.mp3",
+        "text": " Keep this 100 days of code journey",
+        "start": 461.0,
+        "end": 463.0
+    },
+    {
+        "id": 171,
+        "title": "02.mp4.mp3",
+        "text": " And you will also enjoy",
+        "start": 463.0,
+        "end": 465.0
+    },
+    {
+        "id": 172,
+        "title": "02.mp4.mp3",
+        "text": " So this link of rappel",
+        "start": 465.0,
+        "end": 467.0
+    },
+    {
+        "id": 173,
+        "title": "02.mp4.mp3",
+        "text": " You will get it in the description",
+        "start": 467.0,
+        "end": 469.0
+    },
+    {
+        "id": 174,
+        "title": "02.mp4.mp3",
+        "text": " And one more thing I would like to tell you",
+        "start": 469.0,
+        "end": 471.0
+    },
+    {
+        "id": 175,
+        "title": "02.mp4.mp3",
+        "text": " And that is",
+        "start": 471.0,
+        "end": 473.0
+    },
+    {
+        "id": 176,
+        "title": "02.mp4.mp3",
+        "text": " If you have not accessed the playlist",
+        "start": 473.0,
+        "end": 475.0
+    },
+    {
+        "id": 177,
+        "title": "02.mp4.mp3",
+        "text": " Then access it now",
+        "start": 475.0,
+        "end": 477.0
+    },
+    {
+        "id": 178,
+        "title": "02.mp4.mp3",
+        "text": " Because all the videos are going to be in this playlist",
+        "start": 477.0,
+        "end": 479.0
+    },
+    {
+        "id": 179,
+        "title": "02.mp4.mp3",
+        "text": " And if you bookmark this playlist",
+        "start": 479.0,
+        "end": 481.0
+    },
+    {
+        "id": 180,
+        "title": "02.mp4.mp3",
+        "text": " And you will not save",
+        "start": 481.0,
+        "end": 483.0
+    },
+    {
+        "id": 181,
+        "title": "02.mp4.mp3",
+        "text": " Then maybe you will miss",
+        "start": 483.0,
+        "end": 485.0
+    },
+    {
+        "id": 182,
+        "title": "02.mp4.mp3",
+        "text": " I don't want you to miss any day",
+        "start": 485.0,
+        "end": 487.0
+    },
+    {
+        "id": 183,
+        "title": "02.mp4.mp3",
+        "text": " Bookmark this playlist",
+        "start": 487.0,
+        "end": 489.0
+    },
+    {
+        "id": 184,
+        "title": "02.mp4.mp3",
+        "text": " And in the coming days",
+        "start": 489.0,
+        "end": 491.0
+    },
+    {
+        "id": 185,
+        "title": "02.mp4.mp3",
+        "text": " We are going to do a lot of things",
+        "start": 491.0,
+        "end": 493.0
+    },
+    {
+        "id": 186,
+        "title": "02.mp4.mp3",
+        "text": " Enjoyable",
+        "start": 493.0,
+        "end": 495.0
+    },
+    {
+        "id": 187,
+        "title": "02.mp4.mp3",
+        "text": " Until then you take care of yourself",
+        "start": 495.0,
+        "end": 497.0
+    },
+    {
+        "id": 188,
+        "title": "02.mp4.mp3",
+        "text": " And I will see you next time",
+        "start": 497.0,
+        "end": 499.0
+    },
+    {
+        "id": 189,
+        "title": "02.mp4.mp3",
+        "text": " Music",
+        "start": 501.0,
+        "end": 505.0
+    },
+    {
+        "id": 190,
+        "title": "02.mp4.mp3",
+        "text": " Music",
+        "start": 505.0,
+        "end": 517.0
+    }
+]

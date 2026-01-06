@@ -1,0 +1,2424 @@
+[
+    {
+        "id": 0,
+        "title": "01.mp4.mp3",
+        "text": " Welcome to 100 days of code guys",
+        "start": 0,
+        "end": 2
+    },
+    {
+        "id": 1,
+        "title": "01.mp4.mp3",
+        "text": " In 100 days of code we are going to learn",
+        "start": 2,
+        "end": 4
+    },
+    {
+        "id": 2,
+        "title": "01.mp4.mp3",
+        "text": " Python Programming from zero to job ready",
+        "start": 4,
+        "end": 6
+    },
+    {
+        "id": 3,
+        "title": "01.mp4.mp3",
+        "text": " If you have given 100 days",
+        "start": 6,
+        "end": 8
+    },
+    {
+        "id": 4,
+        "title": "01.mp4.mp3",
+        "text": " Dedicated 100 days",
+        "start": 8,
+        "end": 10
+    },
+    {
+        "id": 5,
+        "title": "01.mp4.mp3",
+        "text": " Then I will tell you in bite size lesson",
+        "start": 10,
+        "end": 12
+    },
+    {
+        "id": 6,
+        "title": "01.mp4.mp3",
+        "text": " Python Programming",
+        "start": 12,
+        "end": 14
+    },
+    {
+        "id": 7,
+        "title": "01.mp4.mp3",
+        "text": " We will take it from zero to advance",
+        "start": 14,
+        "end": 16
+    },
+    {
+        "id": 8,
+        "title": "01.mp4.mp3",
+        "text": " In starting you will feel",
+        "start": 16,
+        "end": 18
+    },
+    {
+        "id": 9,
+        "title": "01.mp4.mp3",
+        "text": " How easy it is",
+        "start": 18,
+        "end": 20
+    },
+    {
+        "id": 10,
+        "title": "01.mp4.mp3",
+        "text": " It is a child's play",
+        "start": 20,
+        "end": 22
+    },
+    {
+        "id": 11,
+        "title": "01.mp4.mp3",
+        "text": " After that as videos will go ahead",
+        "start": 22,
+        "end": 24
+    },
+    {
+        "id": 12,
+        "title": "01.mp4.mp3",
+        "text": " We will go till day 100",
+        "start": 24,
+        "end": 26
+    },
+    {
+        "id": 13,
+        "title": "01.mp4.mp3",
+        "text": " We will raise the bar like anything",
+        "start": 26,
+        "end": 28
+    },
+    {
+        "id": 14,
+        "title": "01.mp4.mp3",
+        "text": " We will work on things",
+        "start": 28,
+        "end": 30
+    },
+    {
+        "id": 15,
+        "title": "01.mp4.mp3",
+        "text": " Which are used in industry",
+        "start": 30,
+        "end": 32
+    },
+    {
+        "id": 16,
+        "title": "01.mp4.mp3",
+        "text": " It will be very exciting and fun",
+        "start": 32,
+        "end": 34
+    },
+    {
+        "id": 17,
+        "title": "01.mp4.mp3",
+        "text": " Python is a dynamically typed",
+        "start": 34,
+        "end": 36
+    },
+    {
+        "id": 18,
+        "title": "01.mp4.mp3",
+        "text": " Object oriented programming language",
+        "start": 36,
+        "end": 38
+    },
+    {
+        "id": 19,
+        "title": "01.mp4.mp3",
+        "text": " Which was made by Guido van Rossum in 1991",
+        "start": 38,
+        "end": 40
+    },
+    {
+        "id": 20,
+        "title": "01.mp4.mp3",
+        "text": " Guido van Rossum was watching a show",
+        "start": 40,
+        "end": 42
+    },
+    {
+        "id": 21,
+        "title": "01.mp4.mp3",
+        "text": " Called Monty Python Circus",
+        "start": 42,
+        "end": 44
+    },
+    {
+        "id": 22,
+        "title": "01.mp4.mp3",
+        "text": " When he was working on this language",
+        "start": 44,
+        "end": 46
+    },
+    {
+        "id": 23,
+        "title": "01.mp4.mp3",
+        "text": " And he thought why not give it the name Python",
+        "start": 46,
+        "end": 48
+    },
+    {
+        "id": 24,
+        "title": "01.mp4.mp3",
+        "text": " And from then it was named Python",
+        "start": 48,
+        "end": 50
+    },
+    {
+        "id": 25,
+        "title": "01.mp4.mp3",
+        "text": " In this course we will do a lot of practice",
+        "start": 50,
+        "end": 52
+    },
+    {
+        "id": 26,
+        "title": "01.mp4.mp3",
+        "text": " Along with theory",
+        "start": 52,
+        "end": 54
+    },
+    {
+        "id": 27,
+        "title": "01.mp4.mp3",
+        "text": " A lot of exercises and quizzes",
+        "start": 54,
+        "end": 56
+    },
+    {
+        "id": 28,
+        "title": "01.mp4.mp3",
+        "text": " And a lot of challenges",
+        "start": 56,
+        "end": 58
+    },
+    {
+        "id": 29,
+        "title": "01.mp4.mp3",
+        "text": " So I will enter my computer",
+        "start": 58,
+        "end": 60
+    },
+    {
+        "id": 30,
+        "title": "01.mp4.mp3",
+        "text": " And I will introduce you to the",
+        "start": 60,
+        "end": 62
+    },
+    {
+        "id": 31,
+        "title": "01.mp4.mp3",
+        "text": " Weird and inhumane nature of Python",
+        "start": 62,
+        "end": 64
+    },
+    {
+        "id": 32,
+        "title": "01.mp4.mp3",
+        "text": " So right now you like this video",
+        "start": 64,
+        "end": 66
+    },
+    {
+        "id": 33,
+        "title": "01.mp4.mp3",
+        "text": " And subscribe and turn on notifications",
+        "start": 66,
+        "end": 68
+    },
+    {
+        "id": 34,
+        "title": "01.mp4.mp3",
+        "text": " So that you don't miss any day",
+        "start": 68,
+        "end": 70
+    },
+    {
+        "id": 35,
+        "title": "01.mp4.mp3",
+        "text": " And you get notifications every day",
+        "start": 70,
+        "end": 72
+    },
+    {
+        "id": 36,
+        "title": "01.mp4.mp3",
+        "text": " Because it is very easy to get lost in the ocean of YouTube",
+        "start": 72,
+        "end": 74
+    },
+    {
+        "id": 37,
+        "title": "01.mp4.mp3",
+        "text": " So 100 days of code challenge",
+        "start": 74,
+        "end": 76
+    },
+    {
+        "id": 38,
+        "title": "01.mp4.mp3",
+        "text": " You all have just accepted",
+        "start": 76,
+        "end": 78
+    },
+    {
+        "id": 39,
+        "title": "01.mp4.mp3",
+        "text": " Write in the comment section below",
+        "start": 78,
+        "end": 80
+    },
+    {
+        "id": 40,
+        "title": "01.mp4.mp3",
+        "text": " I accept the 100 days of code challenge",
+        "start": 80,
+        "end": 82
+    },
+    {
+        "id": 41,
+        "title": "01.mp4.mp3",
+        "text": " Let's get started",
+        "start": 82,
+        "end": 84
+    },
+    {
+        "id": 42,
+        "title": "01.mp4.mp3",
+        "text": " Intro",
+        "start": 86,
+        "end": 88
+    },
+    {
+        "id": 43,
+        "title": "01.mp4.mp3",
+        "text": " So I have come here",
+        "start": 92,
+        "end": 94
+    },
+    {
+        "id": 44,
+        "title": "01.mp4.mp3",
+        "text": " In Google Chrome browser",
+        "start": 94,
+        "end": 96
+    },
+    {
+        "id": 45,
+        "title": "01.mp4.mp3",
+        "text": " And I will tell you how to download and install Python",
+        "start": 96,
+        "end": 98
+    },
+    {
+        "id": 46,
+        "title": "01.mp4.mp3",
+        "text": " So as soon as you",
+        "start": 98,
+        "end": 100
+    },
+    {
+        "id": 47,
+        "title": "01.mp4.mp3",
+        "text": " Write Python, you will come to Python.org",
+        "start": 100,
+        "end": 102
+    },
+    {
+        "id": 48,
+        "title": "01.mp4.mp3",
+        "text": " And here according to your platform",
+        "start": 102,
+        "end": 104
+    },
+    {
+        "id": 49,
+        "title": "01.mp4.mp3",
+        "text": " Sir, the latest download of Python",
+        "start": 104,
+        "end": 106
+    },
+    {
+        "id": 50,
+        "title": "01.mp4.mp3",
+        "text": " Will be found",
+        "start": 106,
+        "end": 108
+    },
+    {
+        "id": 51,
+        "title": "01.mp4.mp3",
+        "text": " As you can see I am in macOS",
+        "start": 108,
+        "end": 110
+    },
+    {
+        "id": 52,
+        "title": "01.mp4.mp3",
+        "text": " So for macOS Python 3.11",
+        "start": 110,
+        "end": 112
+    },
+    {
+        "id": 53,
+        "title": "01.mp4.mp3",
+        "text": " Is giving",
+        "start": 112,
+        "end": 114
+    },
+    {
+        "id": 54,
+        "title": "01.mp4.mp3",
+        "text": " I will download it",
+        "start": 114,
+        "end": 116
+    },
+    {
+        "id": 55,
+        "title": "01.mp4.mp3",
+        "text": " And as soon as it is downloaded",
+        "start": 116,
+        "end": 118
+    },
+    {
+        "id": 56,
+        "title": "01.mp4.mp3",
+        "text": " You can download your favorite IDE, VS code or anything",
+        "start": 118,
+        "end": 120
+    },
+    {
+        "id": 57,
+        "title": "01.mp4.mp3",
+        "text": " To use Python in your computer",
+        "start": 120,
+        "end": 122
+    },
+    {
+        "id": 58,
+        "title": "01.mp4.mp3",
+        "text": " But I will use here",
+        "start": 122,
+        "end": 124
+    },
+    {
+        "id": 59,
+        "title": "01.mp4.mp3",
+        "text": " Raplet",
+        "start": 124,
+        "end": 126
+    },
+    {
+        "id": 60,
+        "title": "01.mp4.mp3",
+        "text": " And you can use Raplet",
+        "start": 126,
+        "end": 128
+    },
+    {
+        "id": 61,
+        "title": "01.mp4.mp3",
+        "text": " This is a collaborative browser based IDE",
+        "start": 128,
+        "end": 130
+    },
+    {
+        "id": 62,
+        "title": "01.mp4.mp3",
+        "text": " I am using it because",
+        "start": 130,
+        "end": 132
+    },
+    {
+        "id": 63,
+        "title": "01.mp4.mp3",
+        "text": " I find it very easy",
+        "start": 132,
+        "end": 134
+    },
+    {
+        "id": 64,
+        "title": "01.mp4.mp3",
+        "text": " To use and along with it",
+        "start": 134,
+        "end": 136
+    },
+    {
+        "id": 65,
+        "title": "01.mp4.mp3",
+        "text": " Here for me",
+        "start": 136,
+        "end": 138
+    },
+    {
+        "id": 66,
+        "title": "01.mp4.mp3",
+        "text": " It is going to be very easy to give you code",
+        "start": 138,
+        "end": 140
+    },
+    {
+        "id": 67,
+        "title": "01.mp4.mp3",
+        "text": " So here I am",
+        "start": 140,
+        "end": 142
+    },
+    {
+        "id": 68,
+        "title": "01.mp4.mp3",
+        "text": " Sign in with my Google account",
+        "start": 142,
+        "end": 144
+    },
+    {
+        "id": 69,
+        "title": "01.mp4.mp3",
+        "text": " And after that I will be redirected to this screen",
+        "start": 144,
+        "end": 146
+    },
+    {
+        "id": 70,
+        "title": "01.mp4.mp3",
+        "text": " So as you can see",
+        "start": 146,
+        "end": 148
+    },
+    {
+        "id": 71,
+        "title": "01.mp4.mp3",
+        "text": " All my raples have come here",
+        "start": 148,
+        "end": 150
+    },
+    {
+        "id": 72,
+        "title": "01.mp4.mp3",
+        "text": " Raplet basically gives you an online way",
+        "start": 150,
+        "end": 152
+    },
+    {
+        "id": 73,
+        "title": "01.mp4.mp3",
+        "text": " To write code",
+        "start": 152,
+        "end": 154
+    },
+    {
+        "id": 74,
+        "title": "01.mp4.mp3",
+        "text": " If your computer is not fast",
+        "start": 154,
+        "end": 156
+    },
+    {
+        "id": 75,
+        "title": "01.mp4.mp3",
+        "text": " Or you have a problem",
+        "start": 156,
+        "end": 158
+    },
+    {
+        "id": 76,
+        "title": "01.mp4.mp3",
+        "text": " Compute wise, that is, your computer",
+        "start": 158,
+        "end": 160
+    },
+    {
+        "id": 77,
+        "title": "01.mp4.mp3",
+        "text": " Lacks a lot, so you only need",
+        "start": 160,
+        "end": 162
+    },
+    {
+        "id": 78,
+        "title": "01.mp4.mp3",
+        "text": " A browser tab",
+        "start": 162,
+        "end": 164
+    },
+    {
+        "id": 79,
+        "title": "01.mp4.mp3",
+        "text": " And you will be able to follow me",
+        "start": 164,
+        "end": 166
+    },
+    {
+        "id": 80,
+        "title": "01.mp4.mp3",
+        "text": " And because I will use Raplet",
+        "start": 166,
+        "end": 168
+    },
+    {
+        "id": 81,
+        "title": "01.mp4.mp3",
+        "text": " It will be easy for you to follow me",
+        "start": 168,
+        "end": 170
+    },
+    {
+        "id": 82,
+        "title": "01.mp4.mp3",
+        "text": " So here I will go to my raples",
+        "start": 170,
+        "end": 172
+    },
+    {
+        "id": 83,
+        "title": "01.mp4.mp3",
+        "text": " I have already made some raples",
+        "start": 172,
+        "end": 174
+    },
+    {
+        "id": 84,
+        "title": "01.mp4.mp3",
+        "text": " And I scroll down",
+        "start": 174,
+        "end": 176
+    },
+    {
+        "id": 85,
+        "title": "01.mp4.mp3",
+        "text": " I will go to the Python",
+        "start": 176,
+        "end": 178
+    },
+    {
+        "id": 86,
+        "title": "01.mp4.mp3",
+        "text": " 0 to job ready folder",
+        "start": 178,
+        "end": 180
+    },
+    {
+        "id": 87,
+        "title": "01.mp4.mp3",
+        "text": " And this is our day 1",
+        "start": 180,
+        "end": 182
+    },
+    {
+        "id": 88,
+        "title": "01.mp4.mp3",
+        "text": " Raple",
+        "start": 182,
+        "end": 184
+    },
+    {
+        "id": 89,
+        "title": "01.mp4.mp3",
+        "text": " So here you can see",
+        "start": 184,
+        "end": 186
+    },
+    {
+        "id": 90,
+        "title": "01.mp4.mp3",
+        "text": " That my video",
+        "start": 186,
+        "end": 188
+    },
+    {
+        "id": 91,
+        "title": "01.mp4.mp3",
+        "text": " You will see here in the floating pane",
+        "start": 188,
+        "end": 190
+    },
+    {
+        "id": 92,
+        "title": "01.mp4.mp3",
+        "text": " And here will be our",
+        "start": 190,
+        "end": 192
+    },
+    {
+        "id": 93,
+        "title": "01.mp4.mp3",
+        "text": " Content and here we will write",
+        "start": 192,
+        "end": 194
+    },
+    {
+        "id": 94,
+        "title": "01.mp4.mp3",
+        "text": " Code, so the console",
+        "start": 194,
+        "end": 196
+    },
+    {
+        "id": 95,
+        "title": "01.mp4.mp3",
+        "text": " I will keep it here",
+        "start": 196,
+        "end": 198
+    },
+    {
+        "id": 96,
+        "title": "01.mp4.mp3",
+        "text": " And",
+        "start": 198,
+        "end": 200
+    },
+    {
+        "id": 97,
+        "title": "01.mp4.mp3",
+        "text": " Along with that, the code I will show you",
+        "start": 200,
+        "end": 202
+    },
+    {
+        "id": 98,
+        "title": "01.mp4.mp3",
+        "text": " I will close it here",
+        "start": 202,
+        "end": 204
+    },
+    {
+        "id": 99,
+        "title": "01.mp4.mp3",
+        "text": " I will write code here",
+        "start": 204,
+        "end": 206
+    },
+    {
+        "id": 100,
+        "title": "01.mp4.mp3",
+        "text": " And here the output of that code is going to come",
+        "start": 206,
+        "end": 208
+    },
+    {
+        "id": 101,
+        "title": "01.mp4.mp3",
+        "text": " So I will quickly make a new file here",
+        "start": 208,
+        "end": 210
+    },
+    {
+        "id": 102,
+        "title": "01.mp4.mp3",
+        "text": " So I will click here",
+        "start": 210,
+        "end": 212
+    },
+    {
+        "id": 103,
+        "title": "01.mp4.mp3",
+        "text": " And I will open main.py",
+        "start": 212,
+        "end": 214
+    },
+    {
+        "id": 104,
+        "title": "01.mp4.mp3",
+        "text": " And I want to open main.py here",
+        "start": 214,
+        "end": 216
+    },
+    {
+        "id": 105,
+        "title": "01.mp4.mp3",
+        "text": " So you see",
+        "start": 216,
+        "end": 218
+    },
+    {
+        "id": 106,
+        "title": "01.mp4.mp3",
+        "text": " How easy it is to use",
+        "start": 218,
+        "end": 220
+    },
+    {
+        "id": 107,
+        "title": "01.mp4.mp3",
+        "text": " Here will be the tutorial, here we will write",
+        "start": 220,
+        "end": 222
+    },
+    {
+        "id": 108,
+        "title": "01.mp4.mp3",
+        "text": " Code, here is the output",
+        "start": 222,
+        "end": 224
+    },
+    {
+        "id": 109,
+        "title": "01.mp4.mp3",
+        "text": " And here will be",
+        "start": 224,
+        "end": 226
+    },
+    {
+        "id": 110,
+        "title": "01.mp4.mp3",
+        "text": " Our video, which you can watch",
+        "start": 226,
+        "end": 228
+    },
+    {
+        "id": 111,
+        "title": "01.mp4.mp3",
+        "text": " Now here I have put a demo video",
+        "start": 228,
+        "end": 230
+    },
+    {
+        "id": 112,
+        "title": "01.mp4.mp3",
+        "text": " You will get to see",
+        "start": 230,
+        "end": 232
+    },
+    {
+        "id": 113,
+        "title": "01.mp4.mp3",
+        "text": " Our day 1 video",
+        "start": 232,
+        "end": 234
+    },
+    {
+        "id": 114,
+        "title": "01.mp4.mp3",
+        "text": " If you are thinking that how did I do this",
+        "start": 234,
+        "end": 236
+    },
+    {
+        "id": 115,
+        "title": "01.mp4.mp3",
+        "text": " So I will give you a link in the description",
+        "start": 236,
+        "end": 238
+    },
+    {
+        "id": 116,
+        "title": "01.mp4.mp3",
+        "text": " You will know",
+        "start": 238,
+        "end": 240
+    },
+    {
+        "id": 117,
+        "title": "01.mp4.mp3",
+        "text": " How to do this, in case",
+        "start": 240,
+        "end": 242
+    },
+    {
+        "id": 118,
+        "title": "01.mp4.mp3",
+        "text": " A teacher is watching this, so now",
+        "start": 242,
+        "end": 244
+    },
+    {
+        "id": 119,
+        "title": "01.mp4.mp3",
+        "text": " Let's talk about Python quickly, but before that",
+        "start": 244,
+        "end": 246
+    },
+    {
+        "id": 120,
+        "title": "01.mp4.mp3",
+        "text": " I would like to talk about",
+        "start": 246,
+        "end": 248
+    },
+    {
+        "id": 121,
+        "title": "01.mp4.mp3",
+        "text": " What is programming, so as you can see",
+        "start": 248,
+        "end": 250
+    },
+    {
+        "id": 122,
+        "title": "01.mp4.mp3",
+        "text": " Programming is a way for us",
+        "start": 250,
+        "end": 252
+    },
+    {
+        "id": 123,
+        "title": "01.mp4.mp3",
+        "text": " To tell computers what to do",
+        "start": 252,
+        "end": 254
+    },
+    {
+        "id": 124,
+        "title": "01.mp4.mp3",
+        "text": " Computers want to tell us",
+        "start": 254,
+        "end": 256
+    },
+    {
+        "id": 125,
+        "title": "01.mp4.mp3",
+        "text": " What to do and we do that",
+        "start": 256,
+        "end": 258
+    },
+    {
+        "id": 126,
+        "title": "01.mp4.mp3",
+        "text": " With the help of programming, if you have a calculator",
+        "start": 258,
+        "end": 260
+    },
+    {
+        "id": 127,
+        "title": "01.mp4.mp3",
+        "text": " So the calculator is programmed",
+        "start": 260,
+        "end": 262
+    },
+    {
+        "id": 128,
+        "title": "01.mp4.mp3",
+        "text": " In such a way that we can tell it",
+        "start": 262,
+        "end": 264
+    },
+    {
+        "id": 129,
+        "title": "01.mp4.mp3",
+        "text": " What is 5 plus 9",
+        "start": 264,
+        "end": 266
+    },
+    {
+        "id": 130,
+        "title": "01.mp4.mp3",
+        "text": " Now 5 plus 9 you will say",
+        "start": 266,
+        "end": 268
+    },
+    {
+        "id": 131,
+        "title": "01.mp4.mp3",
+        "text": " 14, I know this",
+        "start": 268,
+        "end": 270
+    },
+    {
+        "id": 132,
+        "title": "01.mp4.mp3",
+        "text": " So why should I use a calculator",
+        "start": 270,
+        "end": 272
+    },
+    {
+        "id": 133,
+        "title": "01.mp4.mp3",
+        "text": " But how about 2 3 4 5 3 4 5",
+        "start": 272,
+        "end": 274
+    },
+    {
+        "id": 134,
+        "title": "01.mp4.mp3",
+        "text": " 3 multiplied by 5 6 4 5 6",
+        "start": 274,
+        "end": 276
+    },
+    {
+        "id": 135,
+        "title": "01.mp4.mp3",
+        "text": " You can calculate this",
+        "start": 276,
+        "end": 278
+    },
+    {
+        "id": 136,
+        "title": "01.mp4.mp3",
+        "text": " But you can't do it as fast as a computer",
+        "start": 278,
+        "end": 280
+    },
+    {
+        "id": 137,
+        "title": "01.mp4.mp3",
+        "text": " So in this case, a good communication",
+        "start": 280,
+        "end": 282
+    },
+    {
+        "id": 138,
+        "title": "01.mp4.mp3",
+        "text": " Becomes very important with the computer",
+        "start": 282,
+        "end": 284
+    },
+    {
+        "id": 139,
+        "title": "01.mp4.mp3",
+        "text": " And for this we use programming",
+        "start": 284,
+        "end": 286
+    },
+    {
+        "id": 140,
+        "title": "01.mp4.mp3",
+        "text": " The way you and I are talking in Hindi",
+        "start": 286,
+        "end": 288
+    },
+    {
+        "id": 141,
+        "title": "01.mp4.mp3",
+        "text": " You must be talking to your friends",
+        "start": 288,
+        "end": 290
+    },
+    {
+        "id": 142,
+        "title": "01.mp4.mp3",
+        "text": " In English, you must be talking in Spanish",
+        "start": 290,
+        "end": 292
+    },
+    {
+        "id": 143,
+        "title": "01.mp4.mp3",
+        "text": " Or you must be talking in any other language",
+        "start": 292,
+        "end": 294
+    },
+    {
+        "id": 144,
+        "title": "01.mp4.mp3",
+        "text": " To talk to the computer",
+        "start": 294,
+        "end": 296
+    },
+    {
+        "id": 145,
+        "title": "01.mp4.mp3",
+        "text": " We use programming languages",
+        "start": 296,
+        "end": 298
+    },
+    {
+        "id": 146,
+        "title": "01.mp4.mp3",
+        "text": " Like Python C C++",
+        "start": 298,
+        "end": 300
+    },
+    {
+        "id": 147,
+        "title": "01.mp4.mp3",
+        "text": " Java",
+        "start": 300,
+        "end": 302
+    },
+    {
+        "id": 148,
+        "title": "01.mp4.mp3",
+        "text": " There are many other programming languages in the market",
+        "start": 302,
+        "end": 304
+    },
+    {
+        "id": 149,
+        "title": "01.mp4.mp3",
+        "text": " But this course is",
+        "start": 304,
+        "end": 306
+    },
+    {
+        "id": 150,
+        "title": "01.mp4.mp3",
+        "text": " Dedicated to Python",
+        "start": 306,
+        "end": 308
+    },
+    {
+        "id": 151,
+        "title": "01.mp4.mp3",
+        "text": " And this is because Python is very easy",
+        "start": 308,
+        "end": 310
+    },
+    {
+        "id": 152,
+        "title": "01.mp4.mp3",
+        "text": " Python is the easiest to learn",
+        "start": 310,
+        "end": 312
+    },
+    {
+        "id": 153,
+        "title": "01.mp4.mp3",
+        "text": " Programming language because when you",
+        "start": 312,
+        "end": 314
+    },
+    {
+        "id": 154,
+        "title": "01.mp4.mp3",
+        "text": " Learn Python and then you start doing things",
+        "start": 314,
+        "end": 316
+    },
+    {
+        "id": 155,
+        "title": "01.mp4.mp3",
+        "text": " Then it is fun at a different level",
+        "start": 316,
+        "end": 318
+    },
+    {
+        "id": 156,
+        "title": "01.mp4.mp3",
+        "text": " What is Python",
+        "start": 318,
+        "end": 320
+    },
+    {
+        "id": 157,
+        "title": "01.mp4.mp3",
+        "text": " It is a dynamically typed general purpose",
+        "start": 320,
+        "end": 322
+    },
+    {
+        "id": 158,
+        "title": "01.mp4.mp3",
+        "text": " Programming language which supports",
+        "start": 322,
+        "end": 324
+    },
+    {
+        "id": 159,
+        "title": "01.mp4.mp3",
+        "text": " Object-oriented paradigm and",
+        "start": 324,
+        "end": 326
+    },
+    {
+        "id": 160,
+        "title": "01.mp4.mp3",
+        "text": " Functional approach also supports",
+        "start": 326,
+        "end": 328
+    },
+    {
+        "id": 161,
+        "title": "01.mp4.mp3",
+        "text": " Now if you don't know what are these two",
+        "start": 328,
+        "end": 330
+    },
+    {
+        "id": 162,
+        "title": "01.mp4.mp3",
+        "text": " We are going to learn in this course",
+        "start": 330,
+        "end": 332
+    },
+    {
+        "id": 163,
+        "title": "01.mp4.mp3",
+        "text": " Now it is interpreted, it is a high-level",
+        "start": 332,
+        "end": 334
+    },
+    {
+        "id": 164,
+        "title": "01.mp4.mp3",
+        "text": " Programming language and Guido Van Rossum",
+        "start": 334,
+        "end": 336
+    },
+    {
+        "id": 165,
+        "title": "01.mp4.mp3",
+        "text": " Started working on it in 1989",
+        "start": 336,
+        "end": 338
+    },
+    {
+        "id": 166,
+        "title": "01.mp4.mp3",
+        "text": " Many people ask",
+        "start": 338,
+        "end": 340
+    },
+    {
+        "id": 167,
+        "title": "01.mp4.mp3",
+        "text": " When was Python",
+        "start": 340,
+        "end": 342
+    },
+    {
+        "id": 168,
+        "title": "01.mp4.mp3",
+        "text": " Developed? It was not a day or a year",
+        "start": 342,
+        "end": 344
+    },
+    {
+        "id": 169,
+        "title": "01.mp4.mp3",
+        "text": " From 1989 to",
+        "start": 344,
+        "end": 346
+    },
+    {
+        "id": 170,
+        "title": "01.mp4.mp3",
+        "text": " Over the period of years Guido Van Rossum",
+        "start": 346,
+        "end": 348
+    },
+    {
+        "id": 171,
+        "title": "01.mp4.mp3",
+        "text": " Created it, so many places you will see",
+        "start": 348,
+        "end": 350
+    },
+    {
+        "id": 172,
+        "title": "01.mp4.mp3",
+        "text": " 1991, many places you will see",
+        "start": 350,
+        "end": 352
+    },
+    {
+        "id": 173,
+        "title": "01.mp4.mp3",
+        "text": " 1992, you will see 89",
+        "start": 352,
+        "end": 354
+    },
+    {
+        "id": 174,
+        "title": "01.mp4.mp3",
+        "text": " But the truth is",
+        "start": 354,
+        "end": 356
+    },
+    {
+        "id": 175,
+        "title": "01.mp4.mp3",
+        "text": " Starting from 89, it was made over the period of years",
+        "start": 356,
+        "end": 358
+    },
+    {
+        "id": 176,
+        "title": "01.mp4.mp3",
+        "text": " What are the features of Python",
+        "start": 358,
+        "end": 360
+    },
+    {
+        "id": 177,
+        "title": "01.mp4.mp3",
+        "text": " The first thing I will tell you",
+        "start": 360,
+        "end": 362
+    },
+    {
+        "id": 178,
+        "title": "01.mp4.mp3",
+        "text": " It is simple, it is the most simple",
+        "start": 362,
+        "end": 364
+    },
+    {
+        "id": 179,
+        "title": "01.mp4.mp3",
+        "text": " Programming language, I think this is",
+        "start": 364,
+        "end": 366
+    },
+    {
+        "id": 180,
+        "title": "01.mp4.mp3",
+        "text": " The best feature of Python",
+        "start": 366,
+        "end": 368
+    },
+    {
+        "id": 181,
+        "title": "01.mp4.mp3",
+        "text": " And after that you can do anything with it",
+        "start": 368,
+        "end": 370
+    },
+    {
+        "id": 182,
+        "title": "01.mp4.mp3",
+        "text": " Platform is independent",
+        "start": 370,
+        "end": 372
+    },
+    {
+        "id": 183,
+        "title": "01.mp4.mp3",
+        "text": " Platform is independent and",
+        "start": 372,
+        "end": 374
+    },
+    {
+        "id": 184,
+        "title": "01.mp4.mp3",
+        "text": " It means that",
+        "start": 374,
+        "end": 376
+    },
+    {
+        "id": 185,
+        "title": "01.mp4.mp3",
+        "text": " If you write code in windows",
+        "start": 376,
+        "end": 378
+    },
+    {
+        "id": 186,
+        "title": "01.mp4.mp3",
+        "text": " Then you can run it on Linux",
+        "start": 378,
+        "end": 380
+    },
+    {
+        "id": 187,
+        "title": "01.mp4.mp3",
+        "text": " And if you write code in mac",
+        "start": 380,
+        "end": 382
+    },
+    {
+        "id": 188,
+        "title": "01.mp4.mp3",
+        "text": " Then you can run it on windows",
+        "start": 382,
+        "end": 384
+    },
+    {
+        "id": 189,
+        "title": "01.mp4.mp3",
+        "text": " You can run it on any platform",
+        "start": 384,
+        "end": 386
+    },
+    {
+        "id": 190,
+        "title": "01.mp4.mp3",
+        "text": " I am writing code in my browser",
+        "start": 386,
+        "end": 388
+    },
+    {
+        "id": 191,
+        "title": "01.mp4.mp3",
+        "text": " It has nothing to do with mac",
+        "start": 388,
+        "end": 390
+    },
+    {
+        "id": 192,
+        "title": "01.mp4.mp3",
+        "text": " Because I am using the Rappler platform",
+        "start": 390,
+        "end": 392
+    },
+    {
+        "id": 193,
+        "title": "01.mp4.mp3",
+        "text": " But if I write code in my mac",
+        "start": 392,
+        "end": 394
+    },
+    {
+        "id": 194,
+        "title": "01.mp4.mp3",
+        "text": " You can run it anywhere",
+        "start": 394,
+        "end": 396
+    },
+    {
+        "id": 195,
+        "title": "01.mp4.mp3",
+        "text": " It becomes very easy for you",
+        "start": 396,
+        "end": 398
+    },
+    {
+        "id": 196,
+        "title": "01.mp4.mp3",
+        "text": " An open source programming language",
+        "start": 398,
+        "end": 400
+    },
+    {
+        "id": 197,
+        "title": "01.mp4.mp3",
+        "text": " The biggest thing is that you don't have to pay",
+        "start": 400,
+        "end": 402
+    },
+    {
+        "id": 198,
+        "title": "01.mp4.mp3",
+        "text": " To use Python which is amazing",
+        "start": 402,
+        "end": 404
+    },
+    {
+        "id": 199,
+        "title": "01.mp4.mp3",
+        "text": " And Python provides",
+        "start": 404,
+        "end": 406
+    },
+    {
+        "id": 200,
+        "title": "01.mp4.mp3",
+        "text": " Very big library support",
+        "start": 406,
+        "end": 408
+    },
+    {
+        "id": 201,
+        "title": "01.mp4.mp3",
+        "text": " So many people use this simple language",
+        "start": 408,
+        "end": 410
+    },
+    {
+        "id": 202,
+        "title": "01.mp4.mp3",
+        "text": " Because of which",
+        "start": 410,
+        "end": 412
+    },
+    {
+        "id": 203,
+        "title": "01.mp4.mp3",
+        "text": " All people",
+        "start": 412,
+        "end": 414
+    },
+    {
+        "id": 204,
+        "title": "01.mp4.mp3",
+        "text": " Are working on some project",
+        "start": 414,
+        "end": 416
+    },
+    {
+        "id": 205,
+        "title": "01.mp4.mp3",
+        "text": " And all those people's",
+        "start": 416,
+        "end": 418
+    },
+    {
+        "id": 206,
+        "title": "01.mp4.mp3",
+        "text": " Project, the code written by them",
+        "start": 418,
+        "end": 420
+    },
+    {
+        "id": 207,
+        "title": "01.mp4.mp3",
+        "text": " The hard work written by them",
+        "start": 420,
+        "end": 422
+    },
+    {
+        "id": 208,
+        "title": "01.mp4.mp3",
+        "text": " Maybe someone has made something in a year",
+        "start": 422,
+        "end": 424
+    },
+    {
+        "id": 209,
+        "title": "01.mp4.mp3",
+        "text": " And you can use it in a minute",
+        "start": 424,
+        "end": 426
+    },
+    {
+        "id": 210,
+        "title": "01.mp4.mp3",
+        "text": " This is very good",
+        "start": 426,
+        "end": 428
+    },
+    {
+        "id": 211,
+        "title": "01.mp4.mp3",
+        "text": " If I talk from the learning point of view",
+        "start": 428,
+        "end": 430
+    },
+    {
+        "id": 212,
+        "title": "01.mp4.mp3",
+        "text": " If I talk from the error point of view",
+        "start": 430,
+        "end": 432
+    },
+    {
+        "id": 213,
+        "title": "01.mp4.mp3",
+        "text": " Then I will say that the error you are getting today",
+        "start": 432,
+        "end": 434
+    },
+    {
+        "id": 214,
+        "title": "01.mp4.mp3",
+        "text": " Someone came 10 years ago",
+        "start": 434,
+        "end": 436
+    },
+    {
+        "id": 215,
+        "title": "01.mp4.mp3",
+        "text": " And he has taken out his code",
+        "start": 436,
+        "end": 438
+    },
+    {
+        "id": 216,
+        "title": "01.mp4.mp3",
+        "text": " And put it on a website like stackoverflow",
+        "start": 438,
+        "end": 440
+    },
+    {
+        "id": 217,
+        "title": "01.mp4.mp3",
+        "text": " It will be very easy for you",
+        "start": 440,
+        "end": 442
+    },
+    {
+        "id": 218,
+        "title": "01.mp4.mp3",
+        "text": " It will be very easy for you",
+        "start": 442,
+        "end": 444
+    },
+    {
+        "id": 219,
+        "title": "01.mp4.mp3",
+        "text": " To find the solution to that problem",
+        "start": 444,
+        "end": 446
+    },
+    {
+        "id": 220,
+        "title": "01.mp4.mp3",
+        "text": " To find the solution to that problem",
+        "start": 446,
+        "end": 448
+    },
+    {
+        "id": 221,
+        "title": "01.mp4.mp3",
+        "text": " Python provides a very big library support",
+        "start": 448,
+        "end": 450
+    },
+    {
+        "id": 222,
+        "title": "01.mp4.mp3",
+        "text": " Then after this",
+        "start": 450,
+        "end": 452
+    },
+    {
+        "id": 223,
+        "title": "01.mp4.mp3",
+        "text": " It is very easy to integrate it with other programming languages",
+        "start": 452,
+        "end": 454
+    },
+    {
+        "id": 224,
+        "title": "01.mp4.mp3",
+        "text": " Like C language",
+        "start": 454,
+        "end": 456
+    },
+    {
+        "id": 225,
+        "title": "01.mp4.mp3",
+        "text": " It can be linked very well",
+        "start": 456,
+        "end": 458
+    },
+    {
+        "id": 226,
+        "title": "01.mp4.mp3",
+        "text": " Then after this",
+        "start": 458,
+        "end": 460
+    },
+    {
+        "id": 227,
+        "title": "01.mp4.mp3",
+        "text": " There are some applications of it which I have written here",
+        "start": 460,
+        "end": 462
+    },
+    {
+        "id": 228,
+        "title": "01.mp4.mp3",
+        "text": " That you can work on database",
+        "start": 462,
+        "end": 464
+    },
+    {
+        "id": 229,
+        "title": "01.mp4.mp3",
+        "text": " You can work on data science, you can work on machine learning",
+        "start": 464,
+        "end": 466
+    },
+    {
+        "id": 230,
+        "title": "01.mp4.mp3",
+        "text": " You can make web applications",
+        "start": 466,
+        "end": 468
+    },
+    {
+        "id": 231,
+        "title": "01.mp4.mp3",
+        "text": " With database",
+        "start": 468,
+        "end": 470
+    },
+    {
+        "id": 232,
+        "title": "01.mp4.mp3",
+        "text": " Very serious complex applications can be made",
+        "start": 470,
+        "end": 472
+    },
+    {
+        "id": 233,
+        "title": "01.mp4.mp3",
+        "text": " And to move your business forward",
+        "start": 472,
+        "end": 474
+    },
+    {
+        "id": 234,
+        "title": "01.mp4.mp3",
+        "text": " You can do a lot of complex",
+        "start": 474,
+        "end": 476
+    },
+    {
+        "id": 235,
+        "title": "01.mp4.mp3",
+        "text": " Mathematical operations with the help of Python",
+        "start": 476,
+        "end": 478
+    },
+    {
+        "id": 236,
+        "title": "01.mp4.mp3",
+        "text": " Now I am using Raplet here",
+        "start": 478,
+        "end": 480
+    },
+    {
+        "id": 237,
+        "title": "01.mp4.mp3",
+        "text": " Because it is very easy to share code",
+        "start": 480,
+        "end": 482
+    },
+    {
+        "id": 238,
+        "title": "01.mp4.mp3",
+        "text": " It is very easy to install Python",
+        "start": 482,
+        "end": 484
+    },
+    {
+        "id": 239,
+        "title": "01.mp4.mp3",
+        "text": " Even in local",
+        "start": 484,
+        "end": 486
+    },
+    {
+        "id": 240,
+        "title": "01.mp4.mp3",
+        "text": " Simply you",
+        "start": 486,
+        "end": 488
+    },
+    {
+        "id": 241,
+        "title": "01.mp4.mp3",
+        "text": " Why not on any platform",
+        "start": 488,
+        "end": 490
+    },
+    {
+        "id": 242,
+        "title": "01.mp4.mp3",
+        "text": " You can simply install it",
+        "start": 490,
+        "end": 492
+    },
+    {
+        "id": 243,
+        "title": "01.mp4.mp3",
+        "text": " Just like a game",
+        "start": 492,
+        "end": 494
+    },
+    {
+        "id": 244,
+        "title": "01.mp4.mp3",
+        "text": " And if you are in Mac",
+        "start": 494,
+        "end": 496
+    },
+    {
+        "id": 245,
+        "title": "01.mp4.mp3",
+        "text": " Then the installation is as simple as you are",
+        "start": 496,
+        "end": 498
+    },
+    {
+        "id": 246,
+        "title": "01.mp4.mp3",
+        "text": " Seeing on your computer screen",
+        "start": 498,
+        "end": 500
+    },
+    {
+        "id": 247,
+        "title": "01.mp4.mp3",
+        "text": " But if you are in Windows",
+        "start": 500,
+        "end": 502
+    },
+    {
+        "id": 248,
+        "title": "01.mp4.mp3",
+        "text": " Then you can install Python",
+        "start": 502,
+        "end": 504
+    },
+    {
+        "id": 249,
+        "title": "01.mp4.mp3",
+        "text": " And do remember one thing",
+        "start": 504,
+        "end": 506
+    },
+    {
+        "id": 250,
+        "title": "01.mp4.mp3",
+        "text": " Path variable",
+        "start": 506,
+        "end": 508
+    },
+    {
+        "id": 251,
+        "title": "01.mp4.mp3",
+        "text": " At Python 3.2",
+        "start": 508,
+        "end": 510
+    },
+    {
+        "id": 252,
+        "title": "01.mp4.mp3",
+        "text": " Path",
+        "start": 510,
+        "end": 512
+    },
+    {
+        "id": 253,
+        "title": "01.mp4.mp3",
+        "text": " Do check it",
+        "start": 512,
+        "end": 514
+    },
+    {
+        "id": 254,
+        "title": "01.mp4.mp3",
+        "text": " Because if you don't check it",
+        "start": 514,
+        "end": 516
+    },
+    {
+        "id": 255,
+        "title": "01.mp4.mp3",
+        "text": " Then maybe you",
+        "start": 516,
+        "end": 518
+    },
+    {
+        "id": 256,
+        "title": "01.mp4.mp3",
+        "text": " Can't use Python",
+        "start": 518,
+        "end": 520
+    },
+    {
+        "id": 257,
+        "title": "01.mp4.mp3",
+        "text": " From the terminal",
+        "start": 520,
+        "end": 522
+    },
+    {
+        "id": 258,
+        "title": "01.mp4.mp3",
+        "text": " So if I open my terminal",
+        "start": 522,
+        "end": 524
+    },
+    {
+        "id": 259,
+        "title": "01.mp4.mp3",
+        "text": " And I will write Python",
+        "start": 524,
+        "end": 526
+    },
+    {
+        "id": 260,
+        "title": "01.mp4.mp3",
+        "text": " Then it is written here that Python not found",
+        "start": 526,
+        "end": 528
+    },
+    {
+        "id": 261,
+        "title": "01.mp4.mp3",
+        "text": " So we have to solve this problem",
+        "start": 528,
+        "end": 530
+    },
+    {
+        "id": 262,
+        "title": "01.mp4.mp3",
+        "text": " If you are in Linux",
+        "start": 530,
+        "end": 532
+    },
+    {
+        "id": 263,
+        "title": "01.mp4.mp3",
+        "text": " Or in Mac like me",
+        "start": 532,
+        "end": 534
+    },
+    {
+        "id": 264,
+        "title": "01.mp4.mp3",
+        "text": " If you write Python",
+        "start": 534,
+        "end": 536
+    },
+    {
+        "id": 265,
+        "title": "01.mp4.mp3",
+        "text": " Then you will see this error",
+        "start": 536,
+        "end": 538
+    },
+    {
+        "id": 266,
+        "title": "01.mp4.mp3",
+        "text": " If you write Python 3.0",
+        "start": 538,
+        "end": 540
+    },
+    {
+        "id": 267,
+        "title": "01.mp4.mp3",
+        "text": " Then you will see Python",
+        "start": 540,
+        "end": 542
+    },
+    {
+        "id": 268,
+        "title": "01.mp4.mp3",
+        "text": " Rappel",
+        "start": 542,
+        "end": 544
+    },
+    {
+        "id": 269,
+        "title": "01.mp4.mp3",
+        "text": " Rappel is read evaluate print loop",
+        "start": 544,
+        "end": 546
+    },
+    {
+        "id": 270,
+        "title": "01.mp4.mp3",
+        "text": " Here you can use Python",
+        "start": 546,
+        "end": 548
+    },
+    {
+        "id": 271,
+        "title": "01.mp4.mp3",
+        "text": " As a calculator",
+        "start": 548,
+        "end": 550
+    },
+    {
+        "id": 272,
+        "title": "01.mp4.mp3",
+        "text": " You can run such commands",
+        "start": 550,
+        "end": 552
+    },
+    {
+        "id": 273,
+        "title": "01.mp4.mp3",
+        "text": " If you don't know",
+        "start": 552,
+        "end": 554
+    },
+    {
+        "id": 274,
+        "title": "01.mp4.mp3",
+        "text": " What is print statement",
+        "start": 554,
+        "end": 556
+    },
+    {
+        "id": 275,
+        "title": "01.mp4.mp3",
+        "text": " We are going to study over the period of days",
+        "start": 556,
+        "end": 558
+    },
+    {
+        "id": 276,
+        "title": "01.mp4.mp3",
+        "text": " But I want you to digest things",
+        "start": 558,
+        "end": 560
+    },
+    {
+        "id": 277,
+        "title": "01.mp4.mp3",
+        "text": " Day by day",
+        "start": 560,
+        "end": 562
+    },
+    {
+        "id": 278,
+        "title": "01.mp4.mp3",
+        "text": " So if you want to come out of Rappel",
+        "start": 562,
+        "end": 564
+    },
+    {
+        "id": 279,
+        "title": "01.mp4.mp3",
+        "text": " Means you want to come out of this read evaluate print loop",
+        "start": 564,
+        "end": 566
+    },
+    {
+        "id": 280,
+        "title": "01.mp4.mp3",
+        "text": " Then you exit",
+        "start": 566,
+        "end": 568
+    },
+    {
+        "id": 281,
+        "title": "01.mp4.mp3",
+        "text": " And you will come out",
+        "start": 568,
+        "end": 570
+    },
+    {
+        "id": 282,
+        "title": "01.mp4.mp3",
+        "text": " But I am going to do",
+        "start": 570,
+        "end": 572
+    },
+    {
+        "id": 283,
+        "title": "01.mp4.mp3",
+        "text": " I am going to use",
+        "start": 572,
+        "end": 574
+    },
+    {
+        "id": 284,
+        "title": "01.mp4.mp3",
+        "text": " Rappel",
+        "start": 574,
+        "end": 576
+    },
+    {
+        "id": 285,
+        "title": "01.mp4.mp3",
+        "text": " And in Rappel",
+        "start": 576,
+        "end": 578
+    },
+    {
+        "id": 286,
+        "title": "01.mp4.mp3",
+        "text": " Whatever we make here",
+        "start": 578,
+        "end": 580
+    },
+    {
+        "id": 287,
+        "title": "01.mp4.mp3",
+        "text": " Files and projects",
+        "start": 580,
+        "end": 582
+    },
+    {
+        "id": 288,
+        "title": "01.mp4.mp3",
+        "text": " It is called Rappel",
+        "start": 582,
+        "end": 584
+    },
+    {
+        "id": 289,
+        "title": "01.mp4.mp3",
+        "text": " And this Rappel name came from here",
+        "start": 584,
+        "end": 586
+    },
+    {
+        "id": 290,
+        "title": "01.mp4.mp3",
+        "text": " Read evaluate print loop of Python",
+        "start": 586,
+        "end": 588
+    },
+    {
+        "id": 291,
+        "title": "01.mp4.mp3",
+        "text": " Or it is in many programming languages",
+        "start": 588,
+        "end": 590
+    },
+    {
+        "id": 292,
+        "title": "01.mp4.mp3",
+        "text": " So if I write",
+        "start": 590,
+        "end": 592
+    },
+    {
+        "id": 293,
+        "title": "01.mp4.mp3",
+        "text": " Hello world",
+        "start": 592,
+        "end": 594
+    },
+    {
+        "id": 294,
+        "title": "01.mp4.mp3",
+        "text": " And click on run",
+        "start": 594,
+        "end": 596
+    },
+    {
+        "id": 295,
+        "title": "01.mp4.mp3",
+        "text": " So you see it is so easy to run",
+        "start": 596,
+        "end": 598
+    },
+    {
+        "id": 296,
+        "title": "01.mp4.mp3",
+        "text": " I want to see the output of this",
+        "start": 598,
+        "end": 600
+    },
+    {
+        "id": 297,
+        "title": "01.mp4.mp3",
+        "text": " And why hasn't the output come yet",
+        "start": 600,
+        "end": 602
+    },
+    {
+        "id": 298,
+        "title": "01.mp4.mp3",
+        "text": " Hello world",
+        "start": 602,
+        "end": 604
+    },
+    {
+        "id": 299,
+        "title": "01.mp4.mp3",
+        "text": " Now if I",
+        "start": 604,
+        "end": 606
+    },
+    {
+        "id": 300,
+        "title": "01.mp4.mp3",
+        "text": " Print 7 or 5",
+        "start": 606,
+        "end": 608
+    },
+    {
+        "id": 301,
+        "title": "01.mp4.mp3",
+        "text": " And run it",
+        "start": 608,
+        "end": 610
+    },
+    {
+        "id": 302,
+        "title": "01.mp4.mp3",
+        "text": " Then it will run here",
+        "start": 610,
+        "end": 612
+    },
+    {
+        "id": 303,
+        "title": "01.mp4.mp3",
+        "text": " And then I will get to see 5",
+        "start": 612,
+        "end": 614
+    },
+    {
+        "id": 304,
+        "title": "01.mp4.mp3",
+        "text": " So basically what is happening here",
+        "start": 614,
+        "end": 616
+    },
+    {
+        "id": 305,
+        "title": "01.mp4.mp3",
+        "text": " I am writing code here",
+        "start": 616,
+        "end": 618
+    },
+    {
+        "id": 306,
+        "title": "01.mp4.mp3",
+        "text": " On the servers of Rappel",
+        "start": 618,
+        "end": 620
+    },
+    {
+        "id": 307,
+        "title": "01.mp4.mp3",
+        "text": " And I am getting to see the output",
+        "start": 620,
+        "end": 622
+    },
+    {
+        "id": 308,
+        "title": "01.mp4.mp3",
+        "text": " If my computer is slow",
+        "start": 622,
+        "end": 624
+    },
+    {
+        "id": 309,
+        "title": "01.mp4.mp3",
+        "text": " Then I can run Python very well",
+        "start": 624,
+        "end": 626
+    },
+    {
+        "id": 310,
+        "title": "01.mp4.mp3",
+        "text": " And I can make new files here",
+        "start": 626,
+        "end": 628
+    },
+    {
+        "id": 311,
+        "title": "01.mp4.mp3",
+        "text": " I can make new files",
+        "start": 628,
+        "end": 630
+    },
+    {
+        "id": 312,
+        "title": "01.mp4.mp3",
+        "text": " I can open new files",
+        "start": 630,
+        "end": 632
+    },
+    {
+        "id": 313,
+        "title": "01.mp4.mp3",
+        "text": " And I can read this text here",
+        "start": 632,
+        "end": 634
+    },
+    {
+        "id": 314,
+        "title": "01.mp4.mp3",
+        "text": " I can watch this video",
+        "start": 634,
+        "end": 636
+    },
+    {
+        "id": 315,
+        "title": "01.mp4.mp3",
+        "text": " I can put it up and down",
+        "start": 636,
+        "end": 638
+    },
+    {
+        "id": 316,
+        "title": "01.mp4.mp3",
+        "text": " Or if I don't want to see this video",
+        "start": 638,
+        "end": 640
+    },
+    {
+        "id": 317,
+        "title": "01.mp4.mp3",
+        "text": " I am practicing something of my own",
+        "start": 640,
+        "end": 642
+    },
+    {
+        "id": 318,
+        "title": "01.mp4.mp3",
+        "text": " So make it small",
+        "start": 642,
+        "end": 644
+    },
+    {
+        "id": 319,
+        "title": "01.mp4.mp3",
+        "text": " And make it stand here",
+        "start": 644,
+        "end": 646
+    },
+    {
+        "id": 320,
+        "title": "01.mp4.mp3",
+        "text": " And make it park here",
+        "start": 646,
+        "end": 648
+    },
+    {
+        "id": 321,
+        "title": "01.mp4.mp3",
+        "text": " And when you want to see it, make it big",
+        "start": 648,
+        "end": 650
+    },
+    {
+        "id": 322,
+        "title": "01.mp4.mp3",
+        "text": " So you will have a very good learning experience",
+        "start": 650,
+        "end": 652
+    },
+    {
+        "id": 323,
+        "title": "01.mp4.mp3",
+        "text": " So I will request you",
+        "start": 652,
+        "end": 654
+    },
+    {
+        "id": 324,
+        "title": "01.mp4.mp3",
+        "text": " That everyone",
+        "start": 654,
+        "end": 656
+    },
+    {
+        "id": 325,
+        "title": "01.mp4.mp3",
+        "text": " The playlist of Python which I am going to make official",
+        "start": 656,
+        "end": 658
+    },
+    {
+        "id": 326,
+        "title": "01.mp4.mp3",
+        "text": " 100 days of code playlist",
+        "start": 658,
+        "end": 660
+    },
+    {
+        "id": 327,
+        "title": "01.mp4.mp3",
+        "text": " Do access it",
+        "start": 660,
+        "end": 662
+    },
+    {
+        "id": 328,
+        "title": "01.mp4.mp3",
+        "text": " Like the video and subscribe to the channel",
+        "start": 662,
+        "end": 664
+    },
+    {
+        "id": 329,
+        "title": "01.mp4.mp3",
+        "text": " So that you don't miss any day",
+        "start": 664,
+        "end": 666
+    },
+    {
+        "id": 330,
+        "title": "01.mp4.mp3",
+        "text": " This 100 days of code journey",
+        "start": 666,
+        "end": 668
+    },
+    {
+        "id": 331,
+        "title": "01.mp4.mp3",
+        "text": " I don't want you to miss any day",
+        "start": 668,
+        "end": 670
+    },
+    {
+        "id": 332,
+        "title": "01.mp4.mp3",
+        "text": " Access the Python playlist",
+        "start": 670,
+        "end": 672
+    },
+    {
+        "id": 333,
+        "title": "01.mp4.mp3",
+        "text": " Bookmark it and then save it",
+        "start": 672,
+        "end": 674
+    },
+    {
+        "id": 334,
+        "title": "01.mp4.mp3",
+        "text": " I will meet you in the next video",
+        "start": 674,
+        "end": 676
+    },
+    {
+        "id": 335,
+        "title": "01.mp4.mp3",
+        "text": " Where we will talk about more good things",
+        "start": 676,
+        "end": 678
+    },
+    {
+        "id": 336,
+        "title": "01.mp4.mp3",
+        "text": " And day 2 is going to be dedicated",
+        "start": 678,
+        "end": 680
+    },
+    {
+        "id": 337,
+        "title": "01.mp4.mp3",
+        "text": " On some very interesting things",
+        "start": 680,
+        "end": 682
+    },
+    {
+        "id": 338,
+        "title": "01.mp4.mp3",
+        "text": " So you guys wait for day 2",
+        "start": 682,
+        "end": 684
+    },
+    {
+        "id": 339,
+        "title": "01.mp4.mp3",
+        "text": " And we will meet after that",
+        "start": 684,
+        "end": 686
+    },
+    {
+        "id": 340,
+        "title": "01.mp4.mp3",
+        "text": " That's it for now guys",
+        "start": 686,
+        "end": 688
+    },
+    {
+        "id": 341,
+        "title": "01.mp4.mp3",
+        "text": " Thank you so much for watching this video",
+        "start": 688,
+        "end": 690
+    },
+    {
+        "id": 342,
+        "title": "01.mp4.mp3",
+        "text": " And I will see you next time",
+        "start": 690,
+        "end": 692
+    },
+    {
+        "id": 343,
+        "title": "01.mp4.mp3",
+        "text": " Music",
+        "start": 704,
+        "end": 706
+    },
+    {
+        "id": 344,
+        "title": "01.mp4.mp3",
+        "text": " Music",
+        "start": 706,
+        "end": 708
+    },
+    {
+        "id": 345,
+        "title": "01.mp4.mp3",
+        "text": " Music",
+        "start": 708,
+        "end": 710
+    }
+]

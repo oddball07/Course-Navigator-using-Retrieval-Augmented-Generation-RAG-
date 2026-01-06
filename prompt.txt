@@ -1,0 +1,7 @@
+ Here are video subtitle chunks containing video title, video number, video start time, video end time and transcription text. The data is about a python course:
+
+[{"title":"01.mp4.mp3","text":" But this course is","id":149,"start":304.0,"end":306.0},{"title":"01.mp4.mp3","text":" We are going to learn in this course","id":162,"start":330.0,"end":332.0},{"title":"02.mp4.mp3","text":" This brand new course will touch all those things","id":23,"start":93.0,"end":96.0}]
+-------------------------------------------------
+what course is this?
+User asked this question related to the video chunks. you have to answer where and how much content is taught in which video and at what timestamp and guide the user to go to that video.
+If user asked unrelated question, tell them that you can only answer questions related to the course videos.

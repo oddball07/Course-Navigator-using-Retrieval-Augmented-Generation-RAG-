@@ -24,12 +24,12 @@ This project solves that by enabling semantic search + LLM-based guidance over c
 
 ```mermaid
 flowchart TD
-    A[Video Files] --> B[Audio Extraction\n(ffmpeg)];
-    B --> C[Speech-to-Text\n(Whisper)];
-    C --> D[Chunking & Metadata];
-    D --> E[Embedding Generation\n(bge-m3)];
-    E --> F[Vector Similarity Search];
-    F --> G[LLM Answer Generation\n(LLaMA)];
+    A[Video Files] --> B[Audio Extraction - ffmpeg]
+    B --> C[Speech-to-Text - Whisper]
+    C --> D[Chunking and Metadata]
+    D --> E[Embedding Generation - bge-m3]
+    E --> F[Vector Similarity Search]
+    F --> G[LLM Answer Generation - LLaMA]
 ```
 ## Tech Stack
 - Python
